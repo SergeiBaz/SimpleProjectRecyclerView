@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleProjectRecyclerView</string>
+    <string name="add_auto">Add auto</string>
+    <string name="auto">Auto</string>
+</resources>
